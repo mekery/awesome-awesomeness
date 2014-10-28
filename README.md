@@ -1,9 +1,8 @@
 # Awesome Awesomeness
 
-A curated list of amazingly awesome awesomeness.
-Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.zeef.com/alexander.bayandin)
+> A curated list of amazingly awesome awesomeness.
 
-- Programming Languages
+## Programming Languages
 	- [AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey)
 	- [C/C++](https://github.com/fffaraz/awesome-cpp)
 	- [Clojure](https://github.com/razum2um/awesome-clojure)
@@ -48,7 +47,7 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 		- [by @Wolg](https://github.com/Wolg/awesome-swift)
 		- [from ZEEF by @Edubits](https://awesome-swift.zeef.com/robin.eggenkamp)
 
-- General
+## General
 	- [Algorithms](https://github.com/tayllan/awesome-algorithms)
 	- [Analytics](https://github.com/onurakpolat/awesome-analytics)
 	- [Android](https://github.com/JStumpp/awesome-android)
@@ -95,6 +94,13 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 	- Vim
 		- [by @akrawchyk](https://github.com/akrawchyk/awesome-vim)
 		- [by @matteocrippa](https://github.com/matteocrippa/awesome-vim)
+
+## Web Development
+    - [Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo)
+
+## Other Awesome Lists
+    - [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness).
+    - [sindresorhus/awesome](https://github.com/sindresorhus/awesome).
 
 ## License
 
