@@ -99,12 +99,13 @@
 
 ## Web Development
 
-   - [Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo)
+- [React](https://github.com/enaqx/awesome-react)
+- [Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo)
 
 ## Other Awesome Lists
 
-   - [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness).
-   - [sindresorhus/awesome](https://github.com/sindresorhus/awesome).
+- [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness).
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome).
 
 ## License
 
