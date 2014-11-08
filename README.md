@@ -100,6 +100,7 @@
 ## Web Development
 
 - [React](https://github.com/enaqx/awesome-react)
+- [Web Components](https://github.com/mateusortiz/webcomponents-the-right-way)
 - [Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo)
 
 ## Other Awesome Lists
