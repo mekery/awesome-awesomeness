@@ -86,6 +86,7 @@
 - [Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 - [Open Science](https://github.com/silky/awesome-open-science)
 - [Papers](https://github.com/papers-we-love/papers-we-love)
+- [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing)
 - [Services Engineering](https://github.com/mmcgrana/services-engineering)
 - [Styleguides](https://github.com/RichardLitt/awesome-styleguides)
 - [Sublime Text](https://github.com/dreikanter/sublime-bookmarks)
