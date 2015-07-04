@@ -92,6 +92,7 @@
 	- [by @dypsilon](https://github.com/dypsilon/frontend-dev-bookmarks)
 	- [by @moklick](https://github.com/moklick/frontend-stuff)
 - [Game Development](https://github.com/ellisonleao/magictools)
+- [Games](https://github.com/leereilly/games)
 - [GIF](https://github.com/Kikobeats/awesome-gif)
 - [Github](https://github.com/Kikobeats/awesome-github)
 - [HTML5](https://github.com/diegocard/awesome-html5)
