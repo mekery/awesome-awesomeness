@@ -113,6 +113,7 @@
 - [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing)
 - [Services Engineering](https://github.com/mmcgrana/services-engineering)
 - [Sheet Music](https://github.com/adius/awesome-sheet-music)
+- [Slack](https://github.com/matiassingers/awesome-slack)
 - [Styleguides](https://github.com/RichardLitt/awesome-styleguides)
 - [Sublime Text](https://github.com/dreikanter/sublime-bookmarks)
 - [SVG](https://github.com/willianjusten/awesome-svg)
