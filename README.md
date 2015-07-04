@@ -65,6 +65,7 @@
 	- [Free Software Testing Books](https://github.com/ligurio/free-software-testing-books)
 - [Bootstrap](https://github.com/therebelrobot/awesome-bootstrap)
 - [Conferences](https://github.com/RichardLitt/awesome-conferences)
+- [Continuous Delivery](https://github.com/itech001/ciandcd)
 - [Cordova](https://github.com/busterc/awesome-cordova)
 - [Creative Commons Media](https://github.com/shime/creative-commons-media)
 - [Data Science](https://github.com/okulbilisim/awesome-datascience)
