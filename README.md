@@ -52,15 +52,35 @@
 	- [by @Wolg](https://github.com/Wolg/awesome-swift)
 	- [from ZEEF by @Edubits](https://awesome-swift.zeef.com/robin.eggenkamp)
 
+
+## Web Development
+
+- [Bootstrap](https://github.com/therebelrobot/awesome-bootstrap)
+- [CSS](https://github.com/sota0805/awesome-css)
+- [HTML5](https://github.com/diegocard/awesome-html5)
+- [React](https://github.com/enaqx/awesome-react)
+- [Web Components](https://github.com/mateusortiz/webcomponents-the-right-way)
+- [Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo)
+
+## iOS
+- [iOS](https://github.com/vsouza/awesome-ios)
+- [iOS Open Source Apps](https://github.com/dkhamsing/open-source-ios-apps)
+- [iOS UI](https://github.com/cjwirth/awesome-ios-ui)
+
+## Android
+- [Android](https://github.com/JStumpp/awesome-android)
+- Android Open Source Apps
+	- [by @Trinea](https://github.com/Trinea/android-open-project)
+	- [by @pcqpcq](https://github.com/pcqpcq/open-source-android-apps)
+- [Android Security](https://github.com/ashishb/android-security-awesome)
+- [Android UI](https://github.com/wasabeef/awesome-android-ui)
+
 ## General
 
 - [.htaccess](https://github.com/phanan/htaccess)
 - [Algorithms](https://github.com/tayllan/awesome-algorithms)
     - [Algorithms Visualisation](https://github.com/enjalot/algovis)
 - [Analytics](https://github.com/onurakpolat/awesome-analytics)
-- [Android](https://github.com/JStumpp/awesome-android)
-	- [Android Security](https://github.com/ashishb/android-security-awesome)
-	- [Android UI](https://github.com/wasabeef/awesome-android-ui)
 - [API](https://github.com/Kikobeats/awesome-api)
 - [Apple](https://github.com/joeljfischer/awesome-apple)
 - Big data
@@ -70,7 +90,6 @@
 - Books
 	- [Free Programming Books](https://github.com/vhf/free-programming-books)
 	- [Free Software Testing Books](https://github.com/ligurio/free-software-testing-books)
-- [Bootstrap](https://github.com/therebelrobot/awesome-bootstrap)
 - [Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
 - [Conferences](https://github.com/RichardLitt/awesome-conferences)
 - [Continuous Delivery](https://github.com/itech001/ciandcd)
@@ -78,7 +97,6 @@
 - [Courses](https://github.com/prakhar1989/awesome-courses)
 - [Creative Commons Media](https://github.com/shime/creative-commons-media)
 - [Cryptography](https://github.com/MaciejCzyzewski/retter)
-- [CSS](https://github.com/sota0805/awesome-css)
 - [Data Science](https://github.com/okulbilisim/awesome-datascience)
 - [Database](https://github.com/numetriclabz/awesome-db)
 - [Datasets](https://github.com/caesar0301/awesome-public-datasets)
@@ -99,11 +117,7 @@
 - Guides
 	- [by @narkoz](https://github.com/narkoz/guides)
 	- [by @RichardLitt](https://github.com/RichardLitt/awesome-styleguides)
-- [HTML5](https://github.com/diegocard/awesome-html5)
 - [Images](https://github.com/heyalexej/awesome-images)
-- [iOS](https://github.com/vsouza/awesome-ios)
-	- [Open Source Apps](https://github.com/dkhamsing/open-source-ios-apps)
-	- [UI](https://github.com/cjwirth/awesome-ios-ui)
 - [JSON](https://github.com/burningtree/awesome-json)
 - [Koans](https://github.com/ahmdrefat/awesome-koans)
 - [Lego](https://github.com/adius/awesome-lego)
@@ -136,12 +150,6 @@
 	- [by @akrawchyk](https://github.com/akrawchyk/awesome-vim)
 	- [by @matteocrippa](https://github.com/matteocrippa/awesome-vim)
 - [Workshops](https://github.com/therebelrobot/awesome-workshopper)
-
-## Web Development
-
-- [React](https://github.com/enaqx/awesome-react)
-- [Web Components](https://github.com/mateusortiz/webcomponents-the-right-way)
-- [Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo)
 
 ## Other Awesome Lists
 
