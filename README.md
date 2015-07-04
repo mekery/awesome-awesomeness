@@ -123,6 +123,7 @@
 - Vim
 	- [by @akrawchyk](https://github.com/akrawchyk/awesome-vim)
 	- [by @matteocrippa](https://github.com/matteocrippa/awesome-vim)
+- [Workshops](https://github.com/therebelrobot/awesome-workshopper)
 
 ## Web Development
 
