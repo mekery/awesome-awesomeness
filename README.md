@@ -97,6 +97,7 @@
 - [Open Science](https://github.com/silky/awesome-open-science)
 - [Papers](https://github.com/papers-we-love/papers-we-love)
 - [Product Manager](https://github.com/hugo53/awesome-ProductManager)
+- [Remote Work](https://github.com/hugo53/awesome-RemoteWork)
 - [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing)
 - [Services Engineering](https://github.com/mmcgrana/services-engineering)
 - [Sheet Music](https://github.com/adius/awesome-sheet-music)
