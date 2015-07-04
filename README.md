@@ -96,8 +96,10 @@
 - [Games](https://github.com/leereilly/games)
 - [GIF](https://github.com/Kikobeats/awesome-gif)
 - [Github](https://github.com/Kikobeats/awesome-github)
+- Guides
+	- [by @narkoz](https://github.com/narkoz/guides)
+	- [by @RichardLitt](https://github.com/RichardLitt/awesome-styleguides)
 - [HTML5](https://github.com/diegocard/awesome-html5)
-- [Guides](https://github.com/narkoz/guides)
 - [Images](https://github.com/heyalexej/awesome-images)
 - [iOS](https://github.com/vsouza/awesome-ios)
 	- [Open Source Apps](https://github.com/dkhamsing/open-source-ios-apps)
