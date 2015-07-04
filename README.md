@@ -97,6 +97,7 @@
 - [Sysadmin](https://github.com/kahun/awesome-sysadmin)
 - [Talks](https://github.com/JanVanRyswyck/awesome-talks)
 - [Tools](https://github.com/cjbarber/ToolsOfTheTrade)
+- [Vagrant](https://github.com/iJackUA/awesome-vagrant)
 - Vim
 	- [by @akrawchyk](https://github.com/akrawchyk/awesome-vim)
 	- [by @matteocrippa](https://github.com/matteocrippa/awesome-vim)
