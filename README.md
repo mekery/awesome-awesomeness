@@ -57,6 +57,7 @@
 - [Analytics](https://github.com/onurakpolat/awesome-analytics)
 - [Android](https://github.com/JStumpp/awesome-android)
 	- [Android Security](https://github.com/ashishb/android-security-awesome)
+	- [Android UI](https://github.com/wasabeef/awesome-android-ui)
 - [Apple](https://github.com/joeljfischer/awesome-apple)
 - Big data
 	- [by @onurakpolat](https://github.com/onurakpolat/awesome-bigdata)
