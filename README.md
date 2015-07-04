@@ -5,6 +5,7 @@
 ## Programming Languages
 
 - [AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey)
+- [Assembler](https://github.com/mat0thew/awesome-asm)
 - [C](https://github.com/kozross/awesome-c)
 - [C/C++](https://github.com/fffaraz/awesome-cpp)
 - [Clojure](https://github.com/razum2um/awesome-clojure)
